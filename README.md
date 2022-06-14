@@ -1,1 +1,1 @@
- This is the readme for the Primitive orginization.
+ This is the readme for the Primitive organization.
