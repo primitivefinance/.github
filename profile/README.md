@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to Primitive Github
+Welcome to the Primitive Github
 <!--
 
 **Here are some ideas to get you started:**
