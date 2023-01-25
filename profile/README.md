@@ -1,9 +1,6 @@
-## Hi there!
+<img align="left" src="https://user-images.githubusercontent.com/38409137/214508378-0c496fdd-4ce4-4423-a059-8b0d28d563f9.png#gh-light-mode-only" width="400">
+<img align="left" src="https://user-images.githubusercontent.com/38409137/214508202-218ec073-fee6-47c7-acb7-075e02991637.png#gh-dark-mode-only" width="400">
 
-Welcome to the Primitive Github
+***Performant tools to monitor, analyze, and engage with decentralized markets.***
 
-At Primitive, we aim to build the friendliest and most secure products in decentralized finance. We are optimistic about the possibilities available through collaboration, and we invite you to join us in creating better finance. Here, you will find the open-source code, resources, and documentation necessary to expand and build upon the RMM-01 protocol.
-
-If you are interested in contributing, please review our [contributing guidlines](https://github.com/primitivefinance/.github/pull/3/files?short_path=eca12c0#diff-eca12c0a30e25b4b46522ebf89465a03ba72a03f540796c979137931d8f92055). We welcome all contributors and maintaining a strong open-source collaborative work environment is in our best interest. 
-
-If you are new to the defi space and would like to learn more about replicating market makers, check out our [Intro Guide](https://primitive.mirror.xyz/Audtl29HY_rnhN4E2LwnP7-zjDcDGAyXZ4h3QpDeajg), and our [FAQ](https://primitive.xyz/learn). The more technical reader is welcome to peruse our repositories or read our latest [research paper](https://arxiv.org/abs/2205.09890).
+Primitive builds financial market infrastructure and products optimized for security. Professionals use our tools skip the setup and instantly plug into markets.
