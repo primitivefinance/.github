@@ -9,7 +9,7 @@ Join our [discord](https://discord.com/invite/primitive) to collaborate.
 - [FAQ](https://primitive.xyz/learn) answers commonly asked questions
 - [RMM Primer](https://primitive.mirror.xyz/Audtl29HY_rnhN4E2LwnP7-zjDcDGAyXZ4h3QpDeajg) is a beginner-friendly guide to RMMs and Primitive
 - [Whitepaper](https://primitive.xyz/whitepaper-rmm-01.pdf) dives into the details
-- Our latest research on permisionless derivatives can be found [here](https://arxiv.org/abs/2205.09890)
+- Our latest research on permissionless derivatives can be found [here](https://arxiv.org/abs/2205.09890)
 
 ## Testing
 
