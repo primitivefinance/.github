@@ -14,6 +14,6 @@
  - [Bug Bounty](https://immunefi.com/bounty/primitive/)
  
 **Tools**
- - [Portfolio - On-chain Risk & Liquidity Management](https://github.com/primitivefinance/portfolio)
+ - [Portfolio - Low-cost onchain portfolio management](https://github.com/primitivefinance/portfolio)
  - [Arbiter - EVM Simulation](https://github.com/primitivefinance/arbiter)
  - [solstat - Solidity Statistical Function Library](https://github.com/primitivefinance/solstat)
