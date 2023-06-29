@@ -9,6 +9,7 @@
  Professionals use our tools to instantly plug into markets.
  
 **Links**
+ - [Beta Application Release](https://app.primitive.xyz/)
  - [Website](https://primitive.xyz)
  - [Twitter](https://twitter.com/PrimitiveFi)
  - [Bug Bounty](https://immunefi.com/bounty/primitive/)
@@ -17,3 +18,6 @@
  - [Portfolio - Low-cost onchain portfolio management](https://github.com/primitivefinance/portfolio)
  - [Arbiter - EVM Simulation](https://github.com/primitivefinance/arbiter)
  - [solstat - Solidity Statistical Function Library](https://github.com/primitivefinance/solstat)
+
+**Documentation**
+- [Get started and learn about Primitive](https://docs.primitive.xyz/)
