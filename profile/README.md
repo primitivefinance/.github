@@ -10,7 +10,7 @@
 - [Portfolio - Automated Market Making Protocol](https://github.com/primitivefinance/portfolio)
 - [Arbiter   - Transaction Simulation Engine](https://github.com/primitivefinance/arbiter)
 
- Crypto teams use [Arbiter](https://github.com/primitivefinance/arbiter) to stress test strategies and smart contracts against the adversarial actors and conditions that are present onchain. As a fundamental component of Primitive's security & development process, Arbiter is able to deliver something that no other tool can do: model protocol mechanisms with EVM-parity.
+ Teams building onchain products and infrastructure use [Arbiter](https://github.com/primitivefinance/arbiter) to stress test smart contracts against the adversarial actors and conditions that are present onchain. As a fundamental component of Primitive's security & development process, Arbiter is delivers a high performance environment for modeling protocol mechanisms without sacrificing EVM-parity.
  
 **Links**
  - [Website](https://primitive.xyz)
