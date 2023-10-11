@@ -8,7 +8,7 @@
 
  Primitive builds software for onchain asset management:
 - [Portfolio - Automated Market Making Protocol](https://github.com/primitivefinance/portfolio)
-- [Arbiter   - Transaction Simulation Engine](https://github.com/primitivefinance/arbiter)
+- [Arbiter   - Ethereum Simulation](https://github.com/primitivefinance/arbiter)
 
  Teams building onchain products and infrastructure use [Arbiter](https://github.com/primitivefinance/arbiter) to stress test smart contracts against the adversarial actors and conditions that are present onchain. As a fundamental component of Primitive's security & development process, Arbiter is delivers a high performance environment for modeling protocol mechanisms without sacrificing EVM-parity.
  
