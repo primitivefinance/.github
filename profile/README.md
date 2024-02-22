@@ -15,7 +15,3 @@
 **Links**
  - [Website](https://primitive.xyz)
  - [Bug Bounty](https://immunefi.com/bounty/primitive/) (Awarded +$50K in bounties already)
-
-
-**Documentation**
-- [Get started and learn about Primitive](https://docs.primitive.xyz/)
